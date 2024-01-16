@@ -40,6 +40,12 @@
 
 ## Ссылки
 
+Чтобы добавить ссылку нужно добавить:
+
+[описание ссылки текстом] (http.example.com). 
+
+Например - учебник по Markdown(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://docs.openindiana.org/pdf/contrib/markdown.pdf)
+
 ## Таблицы
 
 ## Цитаты
